@@ -6,13 +6,13 @@
    "pictures": [
       {
          "id": 1,
-         "url": "/gallery/image-2.png",
+         "url": "https://raw.githubusercontent.com/RCFUI/pictures/main/pictures/gallery/image-2.png",
          "date": "November 30, 2023",
          "link": "https://drive.google.com"
       },
       {
          "id": 2,
-         "url": "/gallery/image-3.png",
+         "url": "https://raw.githubusercontent.com/RCFUI/pictures/main/pictures/gallery/image-2.png",
          "date": "December 15, 2023",
          "link": "https://drive.google.com"
       },
